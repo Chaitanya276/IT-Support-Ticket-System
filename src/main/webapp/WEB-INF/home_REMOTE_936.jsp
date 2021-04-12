@@ -225,9 +225,7 @@ width: 100px;
 </style>
 <body>
 <h1> Testing from rida branch by chaitanya</h1>
-<h1>from master branch</h1>
 <h1>from chaitanya brach</h1>
-<h2>currently in chaitanya branch and want to see changed this line from rida pc from chaitanya branch</h2>
 <div class="row">
     <div class="col-sm-6 mx-auto p-0">
         <div class="card">
