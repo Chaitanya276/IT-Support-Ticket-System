@@ -7,8 +7,8 @@
 <title>File created from master branch</title>
 </head>
 <body>
-<h1></h1>
 <h1>This is from the master branch</h1>
+This is from rida branch and want to merge this with master
    
   
 </body>
