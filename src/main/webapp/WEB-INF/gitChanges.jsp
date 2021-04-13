@@ -11,6 +11,7 @@ This is from master branch for the first time
 This is first attempt from the develop branch  
 added this line again from chaitanya branch and will try to merge this with master first then with rida
 
+<<<<<<< HEAD
 added this line from master branch ..... :)
 
 adding this from rida branch and need to merge with chaitanya first then with master
@@ -20,5 +21,10 @@ adding this from rida branch and need to merge with chaitanya first then with ma
 
 				from chaitanya branch
 
+=======
+
+
+								from rida
+>>>>>>> rida
 </body>
 </html>
