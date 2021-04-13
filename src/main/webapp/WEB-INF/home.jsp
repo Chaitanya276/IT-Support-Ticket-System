@@ -225,6 +225,15 @@ width: 100px;
 </style>
 <body>
 <h1> Testing from rida branch by chaitanya</h1>
+<h1>from master branch 1</h1>
+
+<h2> humari adhuri kahani</h2>
+<h1> kehne ko jashne bahara hai</h1>
+
+<h1>from chaitanya brach</h1>
+
+<h1>from master branch 1</h1>
+
 <h1>from master branch</h1>
 <h1>from chaitanya brach</h1>
 <h2>currently in chaitanya branch and want to see this line from the master branch</h2>
