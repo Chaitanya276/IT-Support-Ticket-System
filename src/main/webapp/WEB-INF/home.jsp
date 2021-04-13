@@ -236,18 +236,6 @@ width: 100px;
 
 <h1>from master branch</h1>
 <h1>from chaitanya brach</h1>
-<h2>currently in chaitanya branch and want to see this line from the master branch</h2>
-<h1>from master branch 1</h1>
-
-<h2> humari adhuri kahani</h2>
-<h1> kehne ko jashne bahara hai</h1>
-
-<h1>from chaitanya brach</h1>
-
-<h1>from master branch 1</h1>
-
-<h1>from master branch</h1>
-<h1>from chaitanya brach</h1>
 <h2>currently in chaitanya branch and want to see changed this line from rida pc from chaitanya branch</h2>
 
 <div class="row">
