@@ -226,7 +226,6 @@ width: 100px;
 <body>
 <h1> Testing from rida branch by chaitanya</h1>
 <h1>from master branch 1</h1>
-<<<<<<< HEAD
 
 <h2> humari adhuri kahani</h2>
 <h1> kehne ko jashne bahara hai</h1>
