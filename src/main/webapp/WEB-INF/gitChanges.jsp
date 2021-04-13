@@ -13,6 +13,9 @@ added this line again from chaitanya branch and will try to merge this with mast
 
 added this line from master branch ..... :)
 
+
+added this line from master branch ..... :)
+
 adding this from rida branch and need to merge with chaitanya first then with master
 
 
@@ -23,5 +26,11 @@ adding this from rida branch and need to merge with chaitanya first then with ma
 
 
 								from rida
+
+
+								
+								
+this is some changes that i make have to conflict  with the chaitanya
+this is the line that will get conflicted with the rida's one
 </body>
 </html>
