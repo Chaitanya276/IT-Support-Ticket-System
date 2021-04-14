@@ -40,5 +40,6 @@ this line finally added by the master branch
 this is the line that will get conflicted with the rida's one
 
 this line added from the rida branch
+adding this line from master branch before merging with the develop branch 
 </body>
 </html>
