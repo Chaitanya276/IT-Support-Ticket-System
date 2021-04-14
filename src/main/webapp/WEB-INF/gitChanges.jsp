@@ -37,5 +37,8 @@ this is some changes that i make have to conflict  with the chaitanya
 
 
 this line finally added by the master branch
+this is the line that will get conflicted with the rida's one
+
+this line added from the rida branch
 </body>
 </html>
