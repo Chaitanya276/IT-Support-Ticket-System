@@ -35,5 +35,6 @@ this is the line that will get conflicted with the rida's one
 
 
 this line added develop branch
+this line added from the rida branch
 </body>
 </html>
