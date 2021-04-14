@@ -10,32 +10,15 @@
 This is from master branch for the first time 
 This is first attempt from the develop branch  
 added this line again from chaitanya branch and will try to merge this with master first then with rida
-
+<<<<<<< HEAD
 added this line from master branch ..... :)
-
-
-added this line from master branch ..... :)
-
+=======
 adding this from rida branch and need to merge with chaitanya first then with master
 
 
 
 
 				from chaitanya branch
-
-
-
-								from rida
-this is the line that will get conflicted with the rida's one
-
-this line added by chaitanya branch
-
-
-								
-								
-this is some changes that i make have to conflict  with the chaitanya
-
-
-this line finally added by the master branch
+>>>>>>> chaitanya
 </body>
 </html>
